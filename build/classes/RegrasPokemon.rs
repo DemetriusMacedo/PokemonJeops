@@ -1,0 +1,2 @@
+RegrasPokemon
+Jeops_RuleBase_RegrasPokemon
